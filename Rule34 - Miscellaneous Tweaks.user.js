@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           Rule34 - Miscellaneous Tweaks
-// @namespace      Filler
+// @namespace      https://github.com/Donny-Pandairaz/Rule34-Blacklist-Filter
 // @description    This is just for the blacklisting feature
 // @match          *://*.rule34.xxx/*
 // @grant          GM_getValue
